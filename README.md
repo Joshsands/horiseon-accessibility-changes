@@ -1,7 +1,6 @@
-# Code Refactor Starter Code
-<h2>This project includes the reorganization of an existing project's HTML code for improved accessibility properties.</H2>
+<h1>This project includes the reorganization of an existing project's HTML code for improved accessibility properties.</h1>
 
-<h3>EDITS FROM ORIGINAL PAGE</h3>
+<h2>EDITS FROM ORIGINAL PAGE</h2>
 
 <ol><li>
     Changed <title> from website to Horiseon.
@@ -26,7 +25,8 @@
 </li><li>
     CSS class reorganization to appear in order of the html tags.
 </li>
-
+<br />
 <a href="https://joshsands.github.io/horiseon-accessibility-changes"> LINK TO HORISEON WEBPAGE </a>
+<br />
 <br />
  <img src="./assets/images/screenshot.png" />
