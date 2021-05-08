@@ -26,3 +26,7 @@
 </li><li>
     CSS class reorganization to appear in order of the html tags.
 </li>
+
+<a href="https://joshsands.github.io/horiseon-accessibility-changes"> LINK TO HORISEON WEBPAGE </a>
+<br />
+ <img src="./develop/assets/images/screenshot.png" />
