@@ -29,4 +29,4 @@
 
 <a href="https://joshsands.github.io/horiseon-accessibility-changes"> LINK TO HORISEON WEBPAGE </a>
 <br />
- <img src="./develop/assets/images/screenshot.png" />
+ <img src="./assets/images/screenshot.png" />
